@@ -1,0 +1,12 @@
+{
+  "name": "http-js",
+  "version": "1.0.0",
+  "description": "poc for http-js",
+  "main": "dispatch.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "author": "hyj1991 <yeekwanvong@gmail.com>",
+  "license": "MIT"
+}
